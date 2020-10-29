@@ -23,7 +23,7 @@ function App() {
        
         <Switch>
           <Route path="/chats/:person" >
-            <Header backButton="/chat" />
+            <Header backButton="/chats" />
             <ChatScreen />
           </Route>
           <Route path="/chats" >
