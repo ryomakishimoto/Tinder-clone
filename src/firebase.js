@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-     apiKey: "AIzaSyDoN1VGISAWeiZKHurrQOK2_vJsy1e_dLQ",
+     apiKey: "AIzaSyDo..................vJsy1e_dLQ",
      authDomain: "tinder-clone-aeed0.firebaseapp.com",
      databaseURL: "https://tinder-clone-aeed0.firebaseio.com",
      projectId: "tinder-clone-aeed0",
